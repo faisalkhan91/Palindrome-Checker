@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\mkhan8\desktop\exercise3\main.cpp
+	<iostream>
+
+1488068806 source:c:\users\mkhan8\desktop\exercise3\exercise3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	<cstdlib>
+	"tools.hpp"
+	"QueType.h"
+	"StackType.h"
+	"Statistics.hpp"
+
+1488058309 c:\users\mkhan8\desktop\exercise3\tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<locale>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1488058309 c:\users\mkhan8\desktop\exercise3\quetype.h
+	"tools.hpp"
+
+1488058309 c:\users\mkhan8\desktop\exercise3\stacktype.h
+	"tools.hpp"
+	"ItemType.h"
+
+1488058309 c:\users\mkhan8\desktop\exercise3\itemtype.h
+
+1488058309 source:c:\users\mkhan8\desktop\exercise3\quetype.cpp
+	"tools.hpp"
+	"QueType.h"
+	"ItemType.h"
+
+1488058309 source:c:\users\mkhan8\desktop\exercise3\stacktype.cpp
+	"tools.hpp"
+	"StackType.h"
+
+1488058309 source:c:\users\mkhan8\desktop\exercise3\tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+
+1488061909 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\quetype.cpp
+	"tools.hpp"
+	"QueType.h"
+	"ItemType.h"
+
+1488061909 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<locale>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1488061909 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\quetype.h
+	"tools.hpp"
+
+1488061909 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\itemtype.h
+
+1488061909 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\stacktype.cpp
+	"tools.hpp"
+	"StackType.h"
+
+1488061909 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\stacktype.h
+	"tools.hpp"
+	"ItemType.h"
+
+1488061909 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+
+1488072486 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\exercise3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	<cstdlib>
+	"tools.hpp"
+	"QueType.h"
+	"StackType.h"
+	"Statistics.hpp"
+
+1488068416 c:\users\mkhan8\desktop\exercise3\statistics.hpp
+	<iostream>
+	<fstream>
+
+1488068615 source:c:\users\mkhan8\desktop\exercise3\statistics.cpp
+	"Statistics.hpp"
+
+1488072016 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\statistics.hpp
+	<iostream>
+	<fstream>
+
+1488072215 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 3\programming exercise 3\exercise3\statistics.cpp
+	"Statistics.hpp"
+
